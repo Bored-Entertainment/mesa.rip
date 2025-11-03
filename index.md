@@ -12,7 +12,7 @@ title: landing
 <p id="splash"></p>
 </div>
 
-
+<script> alert("THIS WEBSITE IS DEPRICATED AND HAS NOT BEEN UPDATED YEARS! PLEASE USE https://mesaredux.mesagrey.ca AS IT'S OUR LATEST UNBLOCKED GAMES WEBSITE") </script>
 if you're looking for unblocked games, you've stumbled into the right place! we have an active dev team adding games at least every week.
 
 news!! I'm excited to announce mesa.rip has now entered 1.0. all the basic features I've been wanting to add are now implemented, and all the bugs (that I'm aware of, anyways) have been fully squashed. this does NOT mean development is ending anytime soon, there is still a very lengthy roadmap ahead, but this is the first *finished* version of mesa.rip. I hope you like it, and please lmk if you notice any bugs or have any game reccomendations or anything!
